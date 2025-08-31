@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ESPNDeportes" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/640px-ESPN_Deportes.svg.png", ESPN Deportes
+https://bgfuzq.fubohd.com/espndeportes/mono.m3u8?token=05af1e0e653b89465b68dfff8ba612d91ef0ccf8-a7-1756613885-1756595885
+
+#EXTINF:-1 tvg-id="ESPN1Colombia" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN
+https://agvyby.fubohd.com/espn/mono.m3u8?token=55c30cbc1c315c0b1d1683d2eb73399cb3d1dab6-cf-1756610955-1756592955
+
+#EXTINF:-1 tvg-id="ESPN 2" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEHR19Uv-KiCltFsgzWXnkYiBaPCj643JCw&s", ESPN 2
+https://24a1.crackstreamslivehd.com/espn2/tracks-v1a1/mono.m3u8?ip=47.230.85.157&token=5b7188c0943c2c4570bef6296a4f033c8639703a-a2-1756644960-1756590960
+
+#EXTINF:-1 tvg-id="ESPN 3" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3
+https://57b1.crackstreamslivehd.com/espn3/tracks-v1a1/mono.m3u8?ip=47.230.85.157&token=a154edf63692aa0b90889a487b4385e117a43d8a-ed-1756645999-1756591999
+
+#EXTINF:-1 tvg-id="ESPN 4" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png", ESPN 4
+https://pecdl1.crackstreamslivehd.com/espn4/tracks-v1a1/mono.m3u8?ip=47.230.85.157&token=2570a97610ebfcdb4edb6cd7c032cabdf0e7b124-dd-1756646205-1756592205
+
+#EXTINF:-1 tvg-id="ESPN 5" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png", ESPN 5
+https://florcd1.crackstreamslivehd.com/espn5/tracks-v1a1/mono.m3u8?ip=47.230.85.157&token=3811594fb5a69016e579a60ec6faab405a99a309-5d-1756646743-1756592743
+
+#EXTINF:-1 tvg-id="TUDN" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png, TUDN
+https://pecdl1.crackstreamslivehd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=47.230.85.157&token=a96177739da13762bc8fc8c046d46c81f5cadbe8-78-1756645749-1756591749
