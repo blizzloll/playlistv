@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="ESPNDeportes" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/640px-ESPN_Deportes.svg.png", ESPN Deportes
 https://bgfuzq.fubohd.com/espndeportes/mono.m3u8?token=05af1e0e653b89465b68dfff8ba612d91ef0ccf8-a7-1756613885-1756595885
 
+#EXTINF:-1 tvg-id="ESPN Premium" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png", ESPN Premium
+https://14c51.crackstreamslivehd.com/espnpremium/tracks-v1a1/mono.m3u8?ip=47.230.85.157&token=c33aba0cabeb239e70529616567a87548ea0cebd-fc-1756658055-1756604055
+
 #EXTINF:-1 tvg-id="ESPN1Colombia" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN
 https://agvyby.fubohd.com/espn/mono.m3u8?token=55c30cbc1c315c0b1d1683d2eb73399cb3d1dab6-cf-1756610955-1756592955
 
@@ -20,3 +23,6 @@ https://florcd1.crackstreamslivehd.com/espn5/tracks-v1a1/mono.m3u8?ip=47.230.85.
 
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 https://pecdl1.crackstreamslivehd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=47.230.85.157&token=a96177739da13762bc8fc8c046d46c81f5cadbe8-78-1756645749-1756591749
+
+#EXTINF:-1 tvg-id="Universo" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png", Universo
+https://24a1.crackstreamslivehd.com/universo_usa/tracks-v1a1/mono.m3u8?ip=47.230.85.157&token=d08a74e126efd2ded4a28640026e8d2b055fc4c2-18-1756658302-1756604302
